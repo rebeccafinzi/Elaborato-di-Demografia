@@ -1,0 +1,2 @@
+# Elaborato-di-Demografia
+Il seguente elaborato analizza la situazione demografica del comune di Venezia, esaminando la dimensione della popolazione, la struttura per età, i tassi di mortalità, la fecondità e i flussi migratori. Utilizzando dati ufficiali, l'elaborato fornisce un quadro dettagliato dell'evoluzione demografica, approfondendo gli scenari futuri e le relative implicazioni sociali ed economiche.
